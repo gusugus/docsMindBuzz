@@ -27,6 +27,9 @@
 | 15 | [15-scoring-timings.md](./15-scoring-timings.md) | Sistema de puntuación y todos los tiempos/timeouts del sistema |
 | 16 | [16-common-types.md](./16-common-types.md) | Tipos TypeScript compartidos, validadores y utils comunes |
 | 17 | [17-where-to-change.md](./17-where-to-change.md) | Guía práctica: dónde tocar el código para cada tipo de cambio |
+| 18 | [18-common-questions.md](./18-common-questions.md) | Preguntas frecuentes y dudas comunes sobre la plataforma |
+| 19 | [19-todo.md](./19-todo.md) | ToDo General: Registro de tareas pendientes y seguimiento |
+| 20 | [20-team-guidelines.md](./20-team-guidelines.md) | Buenas prácticas de desarrollo, metodología y patrones de trabajo en grupo |
 
 ---
 
@@ -125,3 +128,6 @@ main.tsx
 | Cambiar autenticación | [13-auth-sessions](./13-auth-sessions.md) | [08-service-oidc](./08-service-oidc.md) |
 | Agregar un campo a los quizzes | [16-common-types](./16-common-types.md) | [17-where-to-change](./17-where-to-change.md) |
 | No sé qué tocar | [17-where-to-change](./17-where-to-change.md) | — |
+| Dudas y conceptos clave | [18-common-questions](./18-common-questions.md) | — |
+| Lista de tareas general | [19-todo](./19-todo.md) | — |
+| Metodología de equipo | [20-team-guidelines](./20-team-guidelines.md) | — |
